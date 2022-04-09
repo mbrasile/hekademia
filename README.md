@@ -3,6 +3,7 @@
 This open-source project aims to create an ecosystem to build, learn, teach and spread the word with all the blockchain kwnoledge we can create together.
 
 Temporary web2 url: https://mbrasile.github.io/hekademia/
+
 Temporary web3 url: https://hekademia.crypto
 
 ### Roadmap
